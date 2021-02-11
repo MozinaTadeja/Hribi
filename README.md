@@ -12,6 +12,7 @@ Za vsako goro / hrib bo zajeto:
 - pod katero gorovje spada
 
 Hipoteze:
-- Ali so katera gorovja bolj priljubljena kot druga?
-- Ali višina gore vpliva na njeno priljubljenost?
-- Katere so najbolj priljubljene slovenske gore?
+- Katere so najbolj priljubljene slovenske hribi/ gorovja?
+- Višji vrhovi so bolj popularni
+- Kateri je najbolj priljubljen hrib za vsako hribovje?
+- Ali obstaja dejavnik zaradi katerega so gorovja bolj priljubljena?
